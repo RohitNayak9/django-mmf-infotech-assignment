@@ -1,0 +1,4 @@
+The first line has information about my PC and the path to where the folder exists. 
+The second line is the command git init, and the third line is the response sent back 
+telling me that my repository (repo) has been initialized. 
+It is considered empty because we have not told Git what files to track.
