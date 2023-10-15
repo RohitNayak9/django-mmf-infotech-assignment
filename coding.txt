@@ -1,0 +1,25 @@
+1. array
+2. sliding window
+3. binary searching or searching 
+4. greedy
+5. bit manupulation
+6. string
+heap priority queue
+
+
+
+
+
+7.stack
+8.queue
+9.link list
+10. tree
+11. bst 
+
+
+12. recursion
+13. matrix
+14. graph
+15. back tracking
+16. trie
+17.dp(dynamic programming)
